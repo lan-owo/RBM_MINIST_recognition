@@ -1,1 +1,2 @@
 # RBM_MINIST_recognition
+使用RBM对MINIST数据集进行手写数字识别
